@@ -48,4 +48,4 @@ if (inputLine != null)
 //Console.WriteLine(outDayOfWeek);
 
 
-outDayOfWeek = System.Globalization.CultureInfo("ru-RU").DateTimeFormat.GetDayName()
+outDayOfWeek = System.Globalization.CultureInfo("ru-RU").DateTimeFormat.GetDayName();
